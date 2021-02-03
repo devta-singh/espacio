@@ -1,0 +1,9 @@
+Misión: Hacer un sistema que haga un inventario de ficheros
+organizado por carpetas, almacenado en una base de datos para poder ordenar por carpetas los resultados y obtener los tamaños por fichero y por carpeta.
+
+Dicho sistema ha de poder ejecutarse desde un proceso en background
+
+Se puede consultar para poder localizar carpetas y ficheros con un tamaño excesivo.
+
+Ideas: usar una clase que recopile información de una carpeta y que recursivamente la vaya recorriendo almacenando en la BBDD la info de cada fichero y carpeta.
+
